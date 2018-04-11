@@ -1,0 +1,14 @@
+
+
+This is main program to allow data extraction in the context of BRDF exercise
+-- global_variables.py  - Define the main working variables.
+-- read_data.py         - Import read product , dependancy with SNAP for S2 / S3 data
+-- main.data.py         - Execute all the fonction
+
+
+- Sentinel 3
+
+
+- PROBA V
+
+Format : http://aida.vgt.vito.be/sites/default/files/PROBAV-Products_User_Manual_v2.1.pdf

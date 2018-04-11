@@ -1,0 +1,186 @@
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpcznjzi.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpqj0xrz.prf
+c:\temp\cl_masking\tmpiebqg3.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpqj0xrz.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpiebqg3.prf', '-te', '14.558749348911677', '19.625960440773962', '26.13107246665188', '31.580784084417182', '-tr', '0.0023786892328345743', '0.0029222252856619946', '-of', 'VRT', '-r', 'near', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpcznjzi.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpzhjagy.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpzdozoc.prf
+c:\temp\cl_masking\tmpf5a0jl.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpzdozoc.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpf5a0jl.prf', '-te', '14.558749348911677', '19.625960440773962', '26.13107246665188', '31.580784084417182', '-tr', '0.0023786892328345743', '0.0029222252856619946', '-of', 'VRT', '-r', 'near', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpzhjagy.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpcbaqmd.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmprrhziq.prf
+c:\temp\cl_masking\tmph2sf3q.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmprrhziq.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmph2sf3q.prf', '-te', '14.558749348911677', '19.625960440773962', '26.13107246665188', '31.580784084417182', '-tr', '0.0023786892328345743', '0.0029222252856619946', '-of', 'VRT', '-r', 'near', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpcbaqmd.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpmhgmth.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpxaqejc.prf
+c:\temp\cl_masking\tmpmrqvcb.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpxaqejc.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpmrqvcb.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpmhgmth.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmptrcwcq.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmp5vcdsr.prf
+c:\temp\cl_masking\tmpnu00cz.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmp5vcdsr.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpnu00cz.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmptrcwcq.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmptvmraf.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmprtzray.prf
+c:\temp\cl_masking\tmpmwajea.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmprtzray.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpmwajea.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmptvmraf.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpnbjewm.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpnjrgxm.prf
+c:\temp\cl_masking\tmpth0gat.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpnjrgxm.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpth0gat.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpnbjewm.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpnjbf8z.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpxgmlpm.prf
+c:\temp\cl_masking\tmpdt2vhq.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpxgmlpm.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpdt2vhq.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpnjbf8z.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpcfxvrx.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmppz2sih.prf
+c:\temp\cl_masking\tmplyysbg.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmppz2sih.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmplyysbg.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpcfxvrx.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpix4lk3.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpve5qhi.prf
+c:\temp\cl_masking\tmptggpls.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpve5qhi.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmptggpls.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpix4lk3.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpcwiokj.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpxd_uho.prf
+c:\temp\cl_masking\tmpalfzdn.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpxd_uho.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpalfzdn.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpcwiokj.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpq9m26k.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmp43z2ey.prf
+c:\temp\cl_masking\tmpwkvvsg.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmp43z2ey.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpwkvvsg.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpq9m26k.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpjrhpst.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpes5geu.prf
+c:\temp\cl_masking\tmpnmleyr.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpes5geu.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpnmleyr.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpjrhpst.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpjmp7ac.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpm3usma.prf
+c:\temp\cl_masking\tmpgracu2.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpm3usma.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpgracu2.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpjmp7ac.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpplpsig.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpuf1ynj.prf
+c:\temp\cl_masking\tmpdq91b0.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpuf1ynj.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpdq91b0.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpplpsig.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmp8tajhi.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmp_y2nco.prf
+c:\temp\cl_masking\tmpres8p5.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmp_y2nco.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpres8p5.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmp8tajhi.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmp8x1pyk.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmp0tfjdf.prf
+c:\temp\cl_masking\tmpmkkeyb.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmp0tfjdf.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpmkkeyb.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmp8x1pyk.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpuxrxp2.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmp1v0ogw.prf
+c:\temp\cl_masking\tmpe1vqb4.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmp1v0ogw.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpe1vqb4.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpuxrxp2.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpdvf8is.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpuxdydf.prf
+c:\temp\cl_masking\tmpzvvrlr.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpuxdydf.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpzvvrlr.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpdvf8is.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmplqlmme.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpembwzg.prf
+c:\temp\cl_masking\tmpsybt26.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpembwzg.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpsybt26.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmplqlmme.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpavvsqa.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpwf8ikn.prf
+c:\temp\cl_masking\tmpgvzeap.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpwf8ikn.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpgvzeap.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpavvsqa.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmppzzglh.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpjg4eqz.prf
+c:\temp\cl_masking\tmpmpjael.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpjg4eqz.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpmpjael.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmppzzglh.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpvzvmaq.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpuvil_o.prf
+c:\temp\cl_masking\tmpdkoaib.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpuvil_o.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpdkoaib.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpvzvmaq.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpf3thko.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpjhanrn.prf
+c:\temp\cl_masking\tmpxbglk5.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpjhanrn.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpxbglk5.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpf3thko.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmp3dsfkl.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpocygz3.prf
+c:\temp\cl_masking\tmpcposar.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpocygz3.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpcposar.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmp3dsfkl.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmp3io3yq.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmp4n3svu.prf
+c:\temp\cl_masking\tmpzqsskt.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmp4n3svu.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpzqsskt.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmp3io3yq.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpxtxvk_.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmphu4eax.prf
+c:\temp\cl_masking\tmpvoiax2.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmphu4eax.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpvoiax2.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpxtxvk_.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpxz9_t3.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpibetke.prf
+c:\temp\cl_masking\tmpgko0bc.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpibetke.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpgko0bc.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpxz9_t3.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpake_bu.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpa8zgfn.prf
+c:\temp\cl_masking\tmpxspcfw.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpa8zgfn.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpxspcfw.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpake_bu.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmpuumq9_.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpkgtymu.prf
+c:\temp\cl_masking\tmpwhqitj.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpkgtymu.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpwhqitj.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmpuumq9_.vrt']
+c:/temp/cl_masking
+c:\temp\cl_masking\tmptyyc8h.vrt
+C:\DATA\S3\WD\RES\sza.tif
+c:\temp\cl_masking\tmpvzpvu0.prf
+c:\temp\cl_masking\tmpcsy7kw.prf
+['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpvzpvu0.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpcsy7kw.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmptyyc8h.vrt']
