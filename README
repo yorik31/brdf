@@ -3,13 +3,13 @@ This is main program to allow data extraction in the context of BRDF exercise
 -Description of including files :
 -- global_variables       -> Class to define env variables.
 -- Test_esa_s3_read       -> Script to show handling of S3 data
--- Test_vito_probav_read  -> Script to show handling of S3 data
+-- Test_vito_probav_read  -> Script to show handling of PROBAV data
 -- libs
     --- rios               -> Image processing librairy
     --- log                -> Class to handle font for logging message
     --- esa_s3_data        -> Class defining S3 processing
     --- vito_proba_data    -> Class defining PROBA V processing
-    --- converr_to_toa     -> Generic function to apply toa conversion
+    --- convert_to_toa     -> Generic function to apply toa conversion
     --- gdal_geocoded      -> Generic class based on gdal for geometry
     --- gdal_clip          -> Well known gdal command on board
     --- gdal_merge         -> Well known gdal command on board
