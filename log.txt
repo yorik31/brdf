@@ -184,3 +184,615 @@ C:\DATA\S3\WD\RES\sza.tif
 c:\temp\cl_masking\tmpvzpvu0.prf
 c:\temp\cl_masking\tmpcsy7kw.prf
 ['gdalwarp', '-s_srs', 'c:\\temp\\cl_masking\\tmpvzpvu0.prf', '-t_srs', 'c:\\temp\\cl_masking\\tmpcsy7kw.prf', '-te', '12.71050369411445', '18.66478258048394', '27.897623333395288', '31.58078400052506', '-tr', '0.002622538359399212', '0.002622538359399212', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', 'C:\\DATA\\S3\\WD\\RES\\sza.tif', 'c:\\temp\\cl_masking\\tmptyyc8h.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpKiTn5i.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp8pgIe9.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpSCs2lj.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp8pgIe9.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpSCs2lj.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpKiTn5i.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpWx6scI.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpcYKNq5.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpZSP_eh.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpcYKNq5.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpZSP_eh.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpWx6scI.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpwHBMi5.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpt7xhXf.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpeg1RzG.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpt7xhXf.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpeg1RzG.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpwHBMi5.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp0eORPI.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpqLvzga.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp3KoCT9.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpqLvzga.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp3KoCT9.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp0eORPI.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpEfdNf1.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpMFA4XU.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpTytwyk.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpMFA4XU.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpTytwyk.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpEfdNf1.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpX0Waob.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp2TroiR.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpPJjr4n.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp2TroiR.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpPJjr4n.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpX0Waob.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpugLqmd.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpexIAVp.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpjXtVOG.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpexIAVp.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpjXtVOG.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpugLqmd.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp_fCVxh.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpHe9AbA.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpJ04FHs.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpHe9AbA.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpJ04FHs.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp_fCVxh.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpynLEsZ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpdl_blL.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpj1vVYA.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpdl_blL.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpj1vVYA.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpynLEsZ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpz3PN4F.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp7rQVKl.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpNfZHrh.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp7rQVKl.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpNfZHrh.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpz3PN4F.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpYyaCPs.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpP3gv6g.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpgiG5xm.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpP3gv6g.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpgiG5xm.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpYyaCPs.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmplangBM.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpWNDoLk.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpptXaGH.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpWNDoLk.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpptXaGH.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmplangBM.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpINaeDF.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpktCb3p.prf
+/media/lcheyne/DATADRIVE0/brdf/tmprKQbHI.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpktCb3p.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmprKQbHI.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpINaeDF.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpVYoblp.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpBewzWZ.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpaLE4oq.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpBewzWZ.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpaLE4oq.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpVYoblp.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpHwj1bq.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpZ6MsPM.prf
+/media/lcheyne/DATADRIVE0/brdf/tmprZWeja.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpZ6MsPM.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmprZWeja.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpHwj1bq.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpqfLQ8H.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpZq3w3x.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpFUUuuv.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpZq3w3x.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpFUUuuv.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpqfLQ8H.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpRbErWQ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp5GIudO.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp2AiwQ7.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp5GIudO.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp2AiwQ7.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpRbErWQ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpjkQPI7.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpYJeyDk.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpd3wsNB.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpYJeyDk.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpd3wsNB.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpjkQPI7.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpazYiiJ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpZfOb4k.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpBeiWbG.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpZfOb4k.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpBeiWbG.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpazYiiJ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpEGVS1d.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpgvtWR4.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpQfsp4z.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpgvtWR4.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpQfsp4z.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpEGVS1d.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp8wkqQO.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpg6UcZY.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpFkuKNL.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpg6UcZY.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpFkuKNL.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp8wkqQO.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpgAmjsg.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpxi3zWC.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpZLtnaU.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpxi3zWC.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpZLtnaU.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpgAmjsg.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpfzB6a9.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpPja_ME.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpJ5tb_G.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpPja_ME.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpJ5tb_G.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpfzB6a9.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp2TNotU.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpndq_as.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpJACL2i.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpndq_as.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpJACL2i.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp2TNotU.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpz8LuEg.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpE0WBvC.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpC6xCo_.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpE0WBvC.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpC6xCo_.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpz8LuEg.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpc6JBGy.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp3Euuwb.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpLDQp48.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp3Euuwb.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpLDQp48.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpc6JBGy.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpg2To7P.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpgUEjsL.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpGeXrzi.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpgUEjsL.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpGeXrzi.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpg2To7P.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpa62BNE.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpq1sj0A.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpdZgkW3.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpq1sj0A.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpdZgkW3.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpa62BNE.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpXl3sNQ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpceD3us.prf
+/media/lcheyne/DATADRIVE0/brdf/tmprKmLlf.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpceD3us.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmprKmLlf.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpXl3sNQ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpoSvQ2U.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp2EuxnA.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp4drClL.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp2EuxnA.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp4drClL.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpoSvQ2U.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpZXY0VF.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpkA6AXn.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpysO8Zk.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpkA6AXn.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpysO8Zk.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpZXY0VF.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpIYK16X.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpAN0OWy.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpygAlaY.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpAN0OWy.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpygAlaY.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpIYK16X.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp4S0WHZ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpRWeyl6.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpI2if91.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpRWeyl6.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpI2if91.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp4S0WHZ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpRqmBUe.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpWX2hpi.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp1XBFs_.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpWX2hpi.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp1XBFs_.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpRqmBUe.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpjhY2WJ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmphiv_m6.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpqZ2QUR.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmphiv_m6.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpqZ2QUR.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpjhY2WJ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpWhcJ_d.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpsE2xlh.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpXgC27S.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpsE2xlh.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpXgC27S.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpWhcJ_d.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpPYmPjH.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp81dyl0.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpk6rFXN.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp81dyl0.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpk6rFXN.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpPYmPjH.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpW7CFaM.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpOI4GVO.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpb7Bvet.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpOI4GVO.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpb7Bvet.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpW7CFaM.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpFko_0w.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpi5hyDp.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpP37Zb2.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpi5hyDp.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpP37Zb2.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpFko_0w.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpSJrma3.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpadDKWr.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpoNid4P.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpadDKWr.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpoNid4P.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpSJrma3.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpZtw5h1.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmppKSCYk.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpKzCAnv.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmppKSCYk.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpKzCAnv.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpZtw5h1.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpTImd4l.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpEbwdmo.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpxjoPeS.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpEbwdmo.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpxjoPeS.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpTImd4l.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpw6Mx6r.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpwMsv8g.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpHaZ4Ug.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpwMsv8g.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpHaZ4Ug.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpw6Mx6r.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpaWMdFu.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpmh6ViD.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpEnn5Ri.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpmh6ViD.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpEnn5Ri.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpaWMdFu.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpcQ1VMv.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp4zSh5y.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp_gUo4M.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp4zSh5y.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp_gUo4M.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpcQ1VMv.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpcsIfsA.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp79FpcY.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp2C7jkN.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp79FpcY.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp2C7jkN.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpcsIfsA.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpEdO7hP.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpMT8Fao.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpGxSKhb.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpMT8Fao.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpGxSKhb.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpEdO7hP.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpCKPFv9.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpVDQ_DO.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp8r9gOU.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpVDQ_DO.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp8r9gOU.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpCKPFv9.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpvH8RVV.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp11wVN9.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpx4lyE0.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp11wVN9.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpx4lyE0.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpvH8RVV.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpD2V_vZ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpQvDfxl.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpAlXPCL.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpQvDfxl.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpAlXPCL.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpD2V_vZ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpQ9bLGV.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpsD8z7y.prf
+/media/lcheyne/DATADRIVE0/brdf/tmptChl4E.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpsD8z7y.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmptChl4E.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpQ9bLGV.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpoHmZf0.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpPHx0Sg.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpTLOcIE.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpPHx0Sg.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpTLOcIE.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpoHmZf0.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmprxAwdk.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpHM8t_m.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpZsmPYN.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpHM8t_m.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpZsmPYN.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmprxAwdk.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp2e716_.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpvjCsdp.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpQe59U9.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpvjCsdp.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpQe59U9.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp2e716_.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpRJDzN3.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpIUZjf4.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp56o8_i.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpIUZjf4.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp56o8_i.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpRJDzN3.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpLNICGu.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpUJhNgc.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpFLvVEu.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpUJhNgc.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpFLvVEu.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpLNICGu.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpPHPEsG.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpkb6oYt.prf
+/media/lcheyne/DATADRIVE0/brdf/tmphKutVS.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpkb6oYt.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmphKutVS.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpPHPEsG.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpwvSKSF.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp24crwn.prf
+/media/lcheyne/DATADRIVE0/brdf/tmplP0Lys.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp24crwn.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmplP0Lys.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpwvSKSF.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp3wvKCL.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp3g2GSK.prf
+/media/lcheyne/DATADRIVE0/brdf/tmplgka5a.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp3g2GSK.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmplgka5a.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp3wvKCL.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpbx7SsT.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpgUuzQg.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpkO6CPv.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpgUuzQg.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpkO6CPv.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpbx7SsT.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpuXcZB4.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpQGPsuI.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpDsoab3.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpQGPsuI.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpDsoab3.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpuXcZB4.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpygP2PL.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpKBbksu.prf
+/media/lcheyne/DATADRIVE0/brdf/tmphfO3fw.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpKBbksu.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmphfO3fw.prf', '-te', '-9.906734761354102', '39.77380492624729', '10.042502378892596', '52.6008720016168', '-tr', '0.0029837327460733917', '0.0029837327460733917', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpygP2PL.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpEk8h1f.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp6tJQwI.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp6qiJjW.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp6tJQwI.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp6qiJjW.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpEk8h1f.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpxm4ihg.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpYUHpnF.prf
+/media/lcheyne/DATADRIVE0/brdf/tmprLQHpJ.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpYUHpnF.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmprLQHpJ.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpxm4ihg.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpUA1UGv.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpgwPLUq.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpsivh6t.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpgwPLUq.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpsivh6t.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpUA1UGv.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpocslBw.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpK1wliK.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpd8zMUX.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpK1wliK.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpd8zMUX.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpocslBw.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpv8YoDF.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp4_wAeO.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpVlXcKR.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp4_wAeO.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpVlXcKR.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpv8YoDF.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpC7N50V.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpTKwj1X.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpugmcfN.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpTKwj1X.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpugmcfN.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpC7N50V.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpOaHvDp.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpJ6iAsm.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpYDv3Y5.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpJ6iAsm.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpYDv3Y5.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpOaHvDp.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpPsCled.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpteg3yd.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp7hnyEp.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpteg3yd.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp7hnyEp.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpPsCled.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpiVgc_I.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpF6R6EK.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpiCP6Ji.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpF6R6EK.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpiCP6Ji.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpiVgc_I.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpIomPjJ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpvprt0O.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpH14jnj.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpvprt0O.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpH14jnj.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpIomPjJ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpa9Pug2.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpk3eqes.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpBFAg6i.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpk3eqes.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpBFAg6i.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpa9Pug2.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpL79yGR.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmphiqaDk.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpS_EFME.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmphiqaDk.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpS_EFME.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpL79yGR.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpiTaj3q.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpF4y6he.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpxKzhcN.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpF4y6he.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpxKzhcN.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpiTaj3q.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpxFLCYu.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmphLTnkt.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp_yUt6W.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmphLTnkt.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp_yUt6W.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpxFLCYu.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpN7uX9v.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpTLQGz9.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpEpdjeA.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpTLQGz9.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpEpdjeA.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpN7uX9v.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpqAOr6z.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp8x_1FP.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpbsZGEK.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp8x_1FP.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpbsZGEK.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpqAOr6z.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp714AHV.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpv1spGl.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpSI3H6X.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpv1spGl.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpSI3H6X.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp714AHV.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpNkYiD7.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpTEwCKQ.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpQSd1f_.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpTEwCKQ.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpQSd1f_.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpNkYiD7.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpac0fLe.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpt1WbD2.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpBMACR5.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpt1WbD2.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpBMACR5.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpac0fLe.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp4pPJNj.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpUZKXw_.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpIqhboL.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpUZKXw_.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpIqhboL.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp4pPJNj.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmph3O_J_.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpXP0PXN.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpZaBHrr.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpXP0PXN.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpZaBHrr.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmph3O_J_.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpU1u8Qc.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpAmbgQT.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpJB7Zbn.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpAmbgQT.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpJB7Zbn.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpU1u8Qc.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpLpkUPU.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp5Fx_4G.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp_NsK6n.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp5Fx_4G.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp_NsK6n.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpLpkUPU.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpo1FN4M.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp4AaUFK.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpUt1iXd.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp4AaUFK.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpUt1iXd.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpo1FN4M.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpV3xakA.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpjbfIwA.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp6N2aty.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpjbfIwA.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp6N2aty.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpV3xakA.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmprOfwqY.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp5nComt.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpw86X1f.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp5nComt.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpw86X1f.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmprOfwqY.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp72r7NZ.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpEaGbA3.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp9XcJi4.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpEaGbA3.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp9XcJi4.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp72r7NZ.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp7UGsXc.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpEFEFbK.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpj0FGKj.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpEFEFbK.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpj0FGKj.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp7UGsXc.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpvpkE8I.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpvlH2jx.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpLoxhbn.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpvlH2jx.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpLoxhbn.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpvpkE8I.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpd225aN.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpW75Vm1.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpwiGeXy.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpW75Vm1.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpwiGeXy.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpd225aN.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp3uYwzI.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp5VeNkt.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpuNya5x.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp5VeNkt.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpuNya5x.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp3uYwzI.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpXMotX3.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpT2tJv6.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpKe2s1g.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpT2tJv6.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpKe2s1g.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpXMotX3.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpQtut9a.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpjPJefu.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpdZCwK6.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpjPJefu.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpdZCwK6.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpQtut9a.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmp_Q4VEw.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpfimQ8r.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpBXDjjY.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpfimQ8r.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpBXDjjY.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmp_Q4VEw.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpALyKfx.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpsDeNiT.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpd9dATM.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpsDeNiT.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpd9dATM.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpALyKfx.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpdJAUrT.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpj0nbfR.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpO5WErJ.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpj0nbfR.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpO5WErJ.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpdJAUrT.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpCLDrCW.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmphpJ3FW.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpTy4TXy.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmphpJ3FW.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpTy4TXy.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpCLDrCW.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpV_S9tn.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpdVpbYv.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpQ_3nFa.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpdVpbYv.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpQ_3nFa.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpV_S9tn.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmptL0r__.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmpjDpMQ8.prf
+/media/lcheyne/DATADRIVE0/brdf/tmp8dg4YF.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpjDpMQ8.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp8dg4YF.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmptL0r__.vrt']
+/media/lcheyne/DATADRIVE0/brdf
+/media/lcheyne/DATADRIVE0/brdf/tmpC4r8YI.vrt
+/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif
+/media/lcheyne/DATADRIVE0/brdf/tmp0SIham.prf
+/media/lcheyne/DATADRIVE0/brdf/tmpKqifJN.prf
+['gdalwarp', '-s_srs', '/media/lcheyne/DATADRIVE0/brdf/tmp0SIham.prf', '-t_srs', '/media/lcheyne/DATADRIVE0/brdf/tmpKqifJN.prf', '-te', '12.710503694114351', '18.664782580484236', '27.89762333339484', '31.58078400052506', '-tr', '0.002622538359399152', '0.002622538359399152', '-of', 'VRT', '-r', 'near', '-srcnodata', '0.0', '-dstnodata', '0.0', '/media/lcheyne/DATADRIVE0/DATA/S3/WD/RES/sza.tif', '/media/lcheyne/DATADRIVE0/brdf/tmpC4r8YI.vrt']

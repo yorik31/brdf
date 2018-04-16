@@ -12,21 +12,21 @@ mission = 'S3'
 gv = global_variables.project_variables(mission)
 
 
-product = os.path.join(gv.DATA,'S3A_OL_1_EFR____20180316T084138_20180316T084438_20180317T132229_0179_029_064_2520_LN1_O_NT_002')
-pr = processing(product,gv)
+product = os.path.join(gv.DATA,'S3A_OL_1_EFR____20180316T084138_20180316T084438_20180317T132229_0179_029_064_2520_LN1_O_NT_002.SEN3')
+pr = processing(product, gv)
 
 # To import S3 Data into DIMAP Products :
-#pr.import_to_dimap(WD)
+#pr.import_to_dimap(gv.WD)
 pr.set_dim_file_names(gv.WD)
 dict_list = pr.set_band_dic()
 pr.import_band(dict_list)
 
-#pr.set_gcp_geolocation()
+pr.set_gcp_geolocation()
 #Geocode TP files & set class property (sza) ... :
-#
-#pr.set_geometry('TP')
+
+pr.set_geometry('TP')
 #Geocode Full Image (FI) files :
-#pr.set_geometry('FI')
+pr.set_geometry('FI')
 
 #Define geometric reference (where to find geometry information)
 reference = dict_list[0]['Radiance file']
@@ -35,7 +35,7 @@ pr.set_geometry(dict_list[0]['Radiance file'])
 #Test : Read the dict list  for the fist record
 
 log.info(' Convert to TOA Reflectance')
-for rec in pr.band_dict :
+for rec in pr.band_dict:
     log.info(' Input files : ')
     log.info('     Band Number               : '+str(rec['Band']))
     log.info('     Radiance Scaling factor  : '+str(rec['Scaling factor']))
@@ -46,22 +46,22 @@ for rec in pr.band_dict :
     scaling_factor = rec['Scaling factor']
     radiance_image = rec['Radiance file']
     solar_flux_image = rec['Solar flux file']
-    sun_zenith_image =  pr.sza
-    new_name = os.path.join(gv.WD_RES,rec['Radiance file'].replace('geo','toa'))
+    sun_zenith_image = pr.sza
+    new_name = os.path.join(gv.WD_RES, rec['Radiance file'].replace('geo','toa'))
     log.info('     Output TOA File     : '+new_name)
 
-#    if not os.path.exists(new_name) :
-#        out_name = convert_to_toa.main(radiance_image,
-#                        solar_flux_image,
-#                        sun_zenith_image,
-#                        scaling_factor,
-#                        WD_RES)
-#        os.rename(out_name,new_name)
+    if not os.path.exists(new_name) :
+        out_name = convert_to_toa.main(radiance_image,
+                        solar_flux_image,
+                        sun_zenith_image,
+                        scaling_factor,
+                        gv.WD_RES)
+        os.rename(out_name,new_name)
 
-shp = 'C:\DATA\LANDSAT\LS08_libya4\she_file_l4_roi\shape_file_cnes.shp'
-OUTDIR = os.path.join(gv.WD,'ROI')
+shp = '/media/lcheyne/DATADRIVE0/DATA/VECTOR/Libya/Libya_4/181_40.shp'
+OUTDIR = os.path.join(gv.WD, 'ROI')
 
-file_list = glob.glob(os.path.join(gv.WD_RES,'*toa.tif'))
+file_list = glob.glob(os.path.join(gv.WD_RES, '*toa.tif'))
 geo_list = [os.path.join(gv.WD_RES,'saa.tif'),
             os.path.join(gv.WD_RES, 'sza.tif'),
             os.path.join(gv.WD_RES, 'vza.tif'),
@@ -74,17 +74,19 @@ for rec in file_list :
     crop_file = os.path.join(OUTDIR,os.path.basename(rec))
     if not os.path.exists(crop_file) :
         cmd = gv.gdalwarp_bin+' -q -cutline '
-        cmd+= shp+' -crop_to_cutline -r near -of GTiff '
-        cmd+= rec+' '+crop_file
+        cmd += shp+' -crop_to_cutline -r near -of GTiff '
+        cmd += rec+' '+crop_file
         os.system(cmd)
 
 
-file_list = glob.glob(os.path.join(OUTDIR,'*tif'))
-for rec in file_list :
+file_list = glob.glob(os.path.join(OUTDIR, '*tif'))
+for rec in file_list:
     raster = gdal.Open(rec)
     band = raster.GetRasterBand(1)
     im_data = band.ReadAsArray()
     print os.path.basename(rec),' : ',np.mean(im_data),'  ',np.std(im_data),'  ',np.max(im_data)
+
+#os.rename(gv.WD_RES,os.path.join(gv.WD,'RES_'+pr.radical))
 
 
 

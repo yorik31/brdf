@@ -11,7 +11,9 @@ class processing:
             def __init__(self,product,gv):
                 if os.path.exists(product):
                     self.gv = gv #global variables
-                    main_dir = glob.glob(os.path.join(product,'*.SEN3'))
+                    main_dir = glob.glob(os.path.join(product))
+                    print main_dir
+                                         #,'*.SEN3'))
                     if len(main_dir) > 0 :
                         self.product = main_dir[0]
                         print self.product
@@ -20,6 +22,7 @@ class processing:
                     print product
                     return
 
+                self.radical = os.path.basename(product).split('.')[0]
                 self.dim_file = ''
                 self.dim_file_exist = False
                 self.dim_data = ''
@@ -43,14 +46,15 @@ class processing:
             def import_to_dimap(self,out):
                 '''use snap to convert input product into dim product'''
                 '''out : output repository, WD'''
-                cmd = SNAP_COMMAND
+                cmd = self.gv.SNAP_COMMAND
                 cmd += ' -f dim '
                 cmd += self.product + ' '
                 cmd += ' -o ' + out
+                print cmd
                 os.system(cmd)
 
             def set_dim_file_names(self,out):
-                self.dim_file = glob.glob(os.path.join(out, '*.dim'))[0]
+                self.dim_file = glob.glob(os.path.join(out, self.radical+'*.dim'))[0]
                 if len(self.dim_file) > 0 :
                     self.dim_exist = True
                     rad = self.dim_file.replace('.dim','.data')
@@ -150,9 +154,9 @@ class processing:
 
             def set_tp_gcp_list(self):
                 gv = self.gv
-                (fd, latitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=WD, suffix='.tif')
+                (fd, latitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=gv.WD, suffix='.tif')
                 os.close(fd)
-                (fd, longitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=WD, suffix='.tif')
+                (fd, longitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=gv.WD, suffix='.tif')
                 os.close(fd)
 
                 # read image latitude
@@ -174,29 +178,29 @@ class processing:
 
 
             def set_gcp_list(self):
-                (fd, latitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=WD, suffix='.tif')
+                (fd, latitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=self.gv.WD, suffix='.tif')
                 os.close(fd)
-                (fd, longitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=WD, suffix='.tif')
+                (fd, longitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=self.gv.WD, suffix='.tif')
                 os.close(fd)
-                (fd, altitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=WD, suffix='.tif')
+                (fd, altitude_im) = tempfile.mkstemp(prefix='with_geometry_', dir=self.gv.WD, suffix='.tif')
                 os.close(fd)
 
                 log.info(' Read latitude image grid  : ')
-                cmd = gdal_translate_bin + ' '
+                cmd = self.gv.gdal_translate_bin + ' '
                 cmd += '-of GTiff '
                 cmd += self.latitude + ' '
                 cmd += latitude_im + ' '
                 os.system(cmd)
 
                 log.info(' Read longitude image grid  : ')
-                cmd = gdal_translate_bin + ' '
+                cmd = self.gv.gdal_translate_bin + ' '
                 cmd += '-of GTiff '
                 cmd += self.longitude + ' '
                 cmd += longitude_im + ' '
                 os.system(cmd)
 
                 log.info(' Read altitude image grid  : ')
-                cmd = gdal_translate_bin + ' '
+                cmd = self.gv.gdal_translate_bin + ' '
                 cmd += '-of GTiff '
                 cmd += self.altitude + ' '
                 cmd += altitude_im + ' '
@@ -263,7 +267,7 @@ class processing:
                             for k,rec in enumerate(self.band_dict):
                                 log.info(' Processing of : '+rec['Solar flux file'])
                                 out_name = os.path.basename(rec['Solar flux file']).replace('img','tif')
-                                out = os.path.join(WD_RES,out_name)
+                                out = os.path.join(gv.WD_RES,out_name)
                                 if not os.path.exists(out):
                                     self.geocoded_file(
                                                     rec['Solar flux file'],

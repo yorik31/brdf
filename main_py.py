@@ -11,11 +11,11 @@ import numpy as np
 mission = 'PROBA-V'
 gv = global_variables.project_variables(mission)
 
-product = os.path.join(DATA,'S3A_OL_1_EFR____20180316T084138_20180316T084438_20180317T132229_0179_029_064_2520_LN1_O_NT_002')
+product = os.path.join(gv.DATA,'PROBAV_L2A_20180224_000153_2_100M_V101')
 pr = processing(product)
 
 # To import S3 Data into DIMAP Products :
-#pr.import_to_dimap(WD)
+#pr.import_to_dimap(gv.WD)
 pr.set_dim_file_names(WD)
 dict_list = pr.set_band_dic()
 pr.import_band(dict_list)
@@ -46,7 +46,7 @@ for rec in pr.band_dict :
     radiance_image = rec['Radiance file']
     solar_flux_image = rec['Solar flux file']
     sun_zenith_image =  pr.sza
-    new_name = os.path.join(WD_RES,rec['Radiance file'].replace('geo','toa'))
+    new_name = os.path.join(gWD_RES,rec['Radiance file'].replace('geo','toa'))
     log.info('     Output TOA File     : '+new_name)
 
 #    if not os.path.exists(new_name) :
