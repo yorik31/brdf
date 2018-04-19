@@ -8,7 +8,7 @@ import tempfile
 from osgeo import gdal,osr
 
 class processing:
-            def __init__(self,product,gv):
+            def __init__(self,product , mission, gv):
                 if os.path.exists(product):
                     self.gv = gv #global variables
                     main_dir = glob.glob(os.path.join(product))
@@ -21,7 +21,7 @@ class processing:
                     log.warn(' Input product does not exist')
                     print product
                     return
-
+                self.mission = mission
                 self.radical = os.path.basename(product).split('.')[0]
                 self.dim_file = ''
                 self.dim_file_exist = False
@@ -42,10 +42,32 @@ class processing:
                 self.gcp_grid_tp_set = False
                 self.gcp_grid = []    #GCP grid given with the full images
                 self.gcp_grid_set = False
+                tiff_import_dir = os.path.join(gv.WD , self.radical)
+                if not os.path.exists(tiff_import_dir):
+                    os.mkdir(tiff_import_dir)
+                self.tiff_import_dir = tiff_import_dir
 
-            def import_to_dimap(self,out):
+                roi_dir = os.path.join(gv.ROI , self.radical)
+                if not os.path.exists(roi_dir):
+                    os.mkdir(roi_dir)
+                self.roi_dir = roi_dir
+
+                stat_file = os.path.join(gv.STAT , 'stat.txt')
+                self.stat_file = stat_file
+
+                if self.mission == 'S3' :
+                    dim_product = os.path.join(gv.DIMAP,self.radical+'.dim')
+                    if not os.path.exists(dim_product):
+                        self.import_to_dimap()
+                    else :
+                        print ' [INFO] DIM File Exist for '
+                        print '            -> '+self.radical
+                self.set_dim_file_names()
+
+            def import_to_dimap(self):
                 '''use snap to convert input product into dim product'''
                 '''out : output repository, WD'''
+                out = self.gv.DIMAP
                 cmd = self.gv.SNAP_COMMAND
                 cmd += ' -f dim '
                 cmd += self.product + ' '
@@ -53,7 +75,8 @@ class processing:
                 print cmd
                 os.system(cmd)
 
-            def set_dim_file_names(self,out):
+            def set_dim_file_names(self):
+                out = self.gv.DIMAP
                 self.dim_file = glob.glob(os.path.join(out, self.radical+'*.dim'))[0]
                 if len(self.dim_file) > 0 :
                     self.dim_exist = True
@@ -110,16 +133,20 @@ class processing:
                     log.warn(' Dim data does not exist')
 
             def import_band(self,list) :
-                #Browse the dic and apply convert to put band geotiff into <out>
+
                 gv = self.gv
+
+                #Browse the dic and apply convert to put band geotiff into <out>
                 list_o = list
                 for k,dict in enumerate(list):
                     band = dict['Band']
                     log.info(" processing of bands : " + str(band))
                     input_image = dict['Radiance file']
-                    new_file = os.path.join(gv.WD_RES, 'band_' + str(band) + '.tif')
+                    new_file = os.path.join(self.tiff_import_dir,
+                                            'band_' + str(band) + '.tif')
                     #Check if file already import and geocoded
-                    geo_file = os.path.join(gv.WD_RES, 'band_' + str(band) + '_geo.tif')
+                    geo_file = os.path.join(self.tiff_import_dir,
+                                            'band_' + str(band) + '_geo.tif')
                     if not os.path.exists (geo_file):
                         cmd = gv.gdal_translate_bin + ' '
                         cmd += '-of GTiff '
@@ -251,7 +278,7 @@ class processing:
                             print 'In processing : '+rec
                             collection_out.append(self.geocoded_file(
                                                                 rec,
-                                                                os.path.join(gv.WD_RES,file_name[k]),
+                                                                os.path.join(self.tiff_import_dir,file_name[k]),
                                                                 gcp_list))
 
                         self.sza = collection_out[0]
@@ -267,7 +294,7 @@ class processing:
                             for k,rec in enumerate(self.band_dict):
                                 log.info(' Processing of : '+rec['Solar flux file'])
                                 out_name = os.path.basename(rec['Solar flux file']).replace('img','tif')
-                                out = os.path.join(gv.WD_RES,out_name)
+                                out = os.path.join(self.tiff_import_dir,out_name)
                                 if not os.path.exists(out):
                                     self.geocoded_file(
                                                     rec['Solar flux file'],
@@ -280,7 +307,7 @@ class processing:
                             for k,rec in enumerate(self.band_dict):
                                 log.info(' Processing of : '+rec['Radiance file'])
                                 out_name = os.path.basename(rec['Radiance file']).replace('.tif','_geo.tif')
-                                out = os.path.join(gv.WD_RES,out_name)
+                                out = os.path.join(self.tiff_import_dir,out_name)
                                 if not os.path.exists(out):
                                     self.geocoded_file(
                                                     rec['Radiance file'],
@@ -292,7 +319,7 @@ class processing:
                                 self.band_dict[k]['Radiance file'] = out
                             log.info(' Processing of altitude files : ')
                             out_name = os.path.basename('altitude_geo.tif')
-                            out = os.path.join(gv.WD_RES, out_name)
+                            out = os.path.join(self.tiff_import_dir, out_name)
                             if not os.path.exists(out):
                                 self.geocoded_file(
                                 self.altitude,

@@ -6,17 +6,21 @@ import libs.log as log
 import glob
 from osgeo import gdal
 import numpy as np
+from test_read_s3_fct import read_s3
 
+data_name = 'S3A_OL_1_EFR____20170422T102021_20170422T102321_20170423T145412_0179_017_008_2159_LN1_O_NT_002.SEN3'
 #Initialisation, indicate the mission :
 mission = 'S3'
-gv = global_variables.project_variables(mission)
+sites = 'Bordeaux'   #sites parmi : La_Crau, DOMEC, Bordeaux, Libya4
 
+read_s3(data_name, mission, sites)
+gv = global_variables.project_variables(mission, sites)
 
-product = os.path.join(gv.DATA,'S3A_OL_1_EFR____20180316T084138_20180316T084438_20180317T132229_0179_029_064_2520_LN1_O_NT_002.SEN3')
+product = os.path.join(gv.DATA,'S3A_OL_1_EFR____20170422T102021_20170422T102321_20170423T145412_0179_017_008_2159_LN1_O_NT_002.SEN3')
 pr = processing(product, gv)
 
 # To import S3 Data into DIMAP Products :
-#pr.import_to_dimap(gv.WD)
+pr.import_to_dimap(gv.WD)
 pr.set_dim_file_names(gv.WD)
 dict_list = pr.set_band_dic()
 pr.import_band(dict_list)
@@ -58,7 +62,7 @@ for rec in pr.band_dict:
                         gv.WD_RES)
         os.rename(out_name,new_name)
 
-shp = '/media/lcheyne/DATADRIVE0/DATA/VECTOR/Libya/Libya_4/181_40.shp'
+shp = '/media/lcheyne/DATADRIVE0/DATA/VECTOR/Bordeaux/Bordeaux.shp'
 OUTDIR = os.path.join(gv.WD, 'ROI')
 
 file_list = glob.glob(os.path.join(gv.WD_RES, '*toa.tif'))
@@ -77,7 +81,6 @@ for rec in file_list :
         cmd += shp+' -crop_to_cutline -r near -of GTiff '
         cmd += rec+' '+crop_file
         os.system(cmd)
-
 
 file_list = glob.glob(os.path.join(OUTDIR, '*tif'))
 for rec in file_list:

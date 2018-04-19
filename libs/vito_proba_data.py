@@ -353,3 +353,4 @@ class processing:
                 else:
                     log.warn(' File exist '+output_image)
                 return output_image
+
